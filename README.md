@@ -49,13 +49,13 @@ To get a local copy up and running, follow these simple steps.
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/shopping-book.git](https://github.com/your-username/shopping-book.git) # Replace with your repo URL
-    cd shopping-book
+    git clone [https://github.com/alican41/ShoppingBook]
+    cd ShoppingBook
     ```
 
 3.  **Open in Android Studio:**
     * Launch Android Studio.
-    * Select `File > Open...` and navigate to the `shopping-book` directory.
+    * Select `File > Open...` and navigate to the `ShoppingBook` directory.
     * Allow Gradle to sync and download all necessary dependencies.
 
 4.  **Build and Run:**
